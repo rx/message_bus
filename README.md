@@ -1,6 +1,6 @@
 # Voom::MessageBus
 
-A lightweight microservice message bus based ontop of sidekiq.
+A lightweight micro-service message bus based on top of Sidekiq.
 
 Inspired by the blog post [SIDEKIQ AS A MICROSERVICE MESSAGE QUEUE](https://brandonhilkert.com/blog/sidekiq-as-a-microservice-message-queue/) by [Brandon Hilkert](https://github.com/brandonhilkert)
 

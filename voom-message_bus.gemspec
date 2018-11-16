@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Russell Edens"]
   spec.email         = ["rx@voomify.com"]
 
-  spec.summary       = %q{A lightweight microservice message bus based ontop of sidekiq.}
+  spec.summary       = %q{A lightweight micro-service message bus based on top of Sidekiq.}
   spec.homepage      = "https://github.com/rx/message_bus"
   spec.license       = "MIT"
 
