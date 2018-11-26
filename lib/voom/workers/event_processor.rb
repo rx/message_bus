@@ -1,3 +1,5 @@
+require 'sidekiq/worker'
+
 # When an event is fired
 # This dispatches the events to the appropriate subscribers
 # See Voom::MessageBus::Subscribe for how to subscribe to an event.
